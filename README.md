@@ -4,7 +4,7 @@ A faith-centered web application that helps people meet new friends and connect 
 
 ## Live Demo
 
-[Visit FaithConnect](https://faithconnect-chat.vercel.app/)
+Visti: [FaithConnect](https://faithconnect-chat.vercel.app/)
 
 ## Features
 
