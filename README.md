@@ -20,8 +20,6 @@ Visit: [FaithConnect](https://faithconnect-chat.vercel.app/)
 - Backend: Node.js + Express
 - Realtime: Socket.IO
 - Database: PostgreSQL
-- Socket.IO
-- Database: PostgreSQL + 
 
 ## Project Purpose
 
