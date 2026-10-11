@@ -14,14 +14,14 @@ Visit: [FaithConnect](https://faithconnect-chat.vercel.app/)
 - Report and block options
 - Leave a conversation and find someone new
 
-## Technologies Used
+## Tech Stack
 
-- React
-- Vite
-- Node.js
-- Express
+- Frontend: React + Vite
+- Backend: Node.js + Express
+- Realtime: Socket.IO
+- Database: PostgreSQL
 - Socket.IO
-- Database: specify the database used in production
+- Database: PostgreSQL + 
 
 ## Project Purpose
 
